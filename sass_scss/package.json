@@ -1,0 +1,17 @@
+{
+  "name": "sass_scss",
+  "version": "1.0.0",
+  "description": "Sass & Scss Learning Objectives At the end of this project, you are expected to be able to explain to anyone, without the help of Google:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.77.7"
+  }
+}
